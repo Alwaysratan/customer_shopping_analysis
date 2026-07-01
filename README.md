@@ -138,6 +138,7 @@ PostgreSQL / MySQL / SQL Server
 and execute the provided SQL queries.
 
 Open customer_shopping_dashboard.pbix in Power BI Desktop to explore the dashboard.
+done
 
 📌 Conclusion
 
